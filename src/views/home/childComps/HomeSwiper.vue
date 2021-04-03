@@ -28,11 +28,12 @@ export default {
 <style scoped>
 .van-swipe {
     background: #f5f5f5f5;
+    margin-top: 50px;
 }
 .van-swipe img {
   width: 93%;
   margin-top: 7px;
-  height: 255px;
+  height: 230px;
   border-radius: 7%;
 }
 </style>

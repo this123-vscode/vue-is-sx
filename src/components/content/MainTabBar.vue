@@ -60,5 +60,8 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+  div {
+  font-size: 3.5vw;
+}
 </style>
